@@ -10,8 +10,10 @@ A **Web Developer**, part of the 100Devs community. enjoy helping people build t
 ## Skills & tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,powershell)](https://skillicons.dev)
 
-## GitHub State
+## Connect with me:
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/wahidahsharifi)
 
+## GitHub State
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wahidahsharifi&show_icons=true&locale=en&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wahidahsharifi&show_icons=true&locale=en)
