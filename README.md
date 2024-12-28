@@ -1,14 +1,18 @@
-### Hi there 👋
+# Hi there 👋, i am Wahid Sharifi ![Profile views](https://komarev.com/ghpvc/?username=wahidahsharifi&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm Wahid Sharifi, a passionate web developer and an active member of the 100Devs community. enjoy helping people build their websites.
+A **Web Developer**, part of the 100Devs community. enjoy helping people build their websites.
 
-- 🌱 I'm learning JS
-- 🌐 <a href="https://wahidsharifi.vercel.app" target="_blank">portfolio</a>
-- ⚔️ <a href="https://www.codewars.com/users/wahidahsharifi">codeWars</a> i solve JS challenges everyday 💻
+- 🌱 I'm learning **JS**
+- 💬 Ask me about **HTML**, **CSS**, **JS**
+- 🌐 Chech Out my [Portfolio](https://wahidsharifi.vercel.app) to know more about me
+- ⚔️ I Solve JS Challenges everyday on [CodeWars](https://www.codewars.com/users/wahidahsharifi) 💻
 
-### Skills & tools:
+## Skills & tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,powershell)](https://skillicons.dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidahsharifi&label=Profile%20views&color=0e75b6&style=flat" alt="thelius1" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahidahsharifi&show_icons=true&locale=en&layout=compact" alt="thelius1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahidahsharifi&show_icons=true&locale=en" alt="thelius1" /></p>
+## GitHub State
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wahidahsharifi&show_icons=true&locale=en&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wahidahsharifi&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahidahsharifi)
