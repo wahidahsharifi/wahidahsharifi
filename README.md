@@ -12,6 +12,7 @@ A **Web Developer**, part of the 100Devs community. enjoy helping people build t
 
 ## Connect with me:
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/wahidahsharifi)
+![Codewars](https://img.shields.io/badge/dynamic/json?color=blue&label=Codewars&query=honor&url=https://www.codewars.com/api/v1/users/wahidahsharifi)
 
 ## GitHub State
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wahidahsharifi&show_icons=true&locale=en&layout=compact)
