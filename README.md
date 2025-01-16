@@ -3,7 +3,7 @@
 
 A **Web Developer**, part of the 100Devs community. enjoy helping people build their websites.
 
-- 🌱 I'm learning **JS**
+- 🌱 I'm learning **NodeJS**
 - 💬 Ask me about **HTML**, **CSS**, **JS**
 - 🌐 Chech Out my [Portfolio](https://wahidsharifi.vercel.app) to know more about me
 - ⚔️ I Solve JS Challenges everyday on [CodeWars](https://www.codewars.com/users/wahidahsharifi) 💻
