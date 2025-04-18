@@ -12,7 +12,7 @@ A **Web Developer**, part of the 100Devs community. enjoy helping people build t
 ### Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,MongoDB)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 ### Deployment & DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,powershell,vercel,heroku,netlify)](https://skillicons.dev)
 
