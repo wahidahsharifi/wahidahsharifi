@@ -1,4 +1,4 @@
-![Banner](banner.jpg)
+![Profile Banner](https://github.com/user-attachments/assets/381a5ca5-ee29-4e1c-a12b-582797fb4faa)
 # Hi there 👋, i am Wahid Sharifi ![Profile views](https://komarev.com/ghpvc/?username=wahidahsharifi&label=Profile%20views&color=0e75b6&style=flat)
 
 A **Web Developer**, part of the 100Devs community. enjoy helping people build their websites.
