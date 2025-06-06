@@ -21,7 +21,7 @@ A **Web Developer**, part of the 100Devs community. enjoy helping people build t
 ![Codewars](https://img.shields.io/badge/dynamic/json?color=blue&label=Codewars&query=honor&url=https://www.codewars.com/api/v1/users/wahidahsharifi)
 
 ## GitHub State
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wahidahsharifi&show_icons=true&locale=en&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wahidahsharifi&show_icons=true&locale=en&layout=compact&cache_bust=2))
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahidahsharifi&show_icons=true&locale=en&cache_bust=2)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahidahsharifi)
