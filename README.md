@@ -8,13 +8,13 @@ A **Web Developer**, part of the 100Devs community. enjoy helping people build t
 - 🌐 Chech Out my [Portfolio](https://wahidsharifi.vercel.app) to know more about me
 - ⚔️ I Solve JS Challenges everyday on [CodeWars](https://www.codewars.com/users/wahidahsharifi) 💻
 
-## Skills & tools:
-### Frontend
+## Skills
+### 🧑‍💻 Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
-### Backend
+### 🛠️ Backend
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,bun)](https://skillicons.dev)
-### Deployment & DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,powershell,vercel,heroku,netlify)](https://skillicons.dev)
+### 🧰 Dev Tools
+[![My Skills](https://skillicons.dev/icons?i=git,)](https://skillicons.dev)
 
 ## Connect with me:
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/wahidahsharifi)
